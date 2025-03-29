@@ -1,14 +1,14 @@
-body{ background-color: black;}
+
 header{ display: flex; justify-content: space-between;align-items: center;}
 
 header ul{ display:flex; gap: 1rem; align-items: center;}
+.titulo { color: white; font-size: 3rem;}
 .link1 {text-decoration: none;
-color: white; }
-
-.titulo{ color: white; font-size: 3rem;}
-p{ color: white;}
-.ponto{ color: #f5c518}
-.BOTAO { text-decoration: none; background-color: #f5c518;padding: 0.7rem;border-radius: 4px; color: black; font-size: 0.7REM;font-weight: bold;}
+ color:white; font-size: 0.8REM;font-weight: bold;}
 .foto1{ max-width: 100%; gap: 1rem;}
+.descrição1 { color: #c6c6c6;}
 .conteudo1{ display: grid; grid-template-columns: 1fr 1fr; gap: 6rem; ; padding: 2rem;}
 nav a:hover {border-bottom: solid white 2px; }
+.lista1 {  list-style-type: none;}
+.page01 { background-color: black;}
+.ponto { color: #FFC107 ;}
