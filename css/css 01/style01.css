@@ -18,3 +18,8 @@ nav a:hover {border-bottom: solid white 2px; }
 .nimbus {  width: 100%; height: 70%;}
 .nebula{ width: 100%; height: 70%; } 
 .menu { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px;}
+.titulo2 { font-size: 3rem; font-family: Arial, Helvetica, sans-serif; padding-left: 2rem;}
+.detalhe::before { content:""; position: absolute;
+height: 0.4rem; width: 0.4rem; background-color: #FFC107; margin-top: -0.2rem ;}
+.container1{ display: flex; align-items: center; gap: 1rem; }
+.lk01 { text-decoration: none; color: black;}
