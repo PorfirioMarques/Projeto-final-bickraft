@@ -23,3 +23,10 @@ nav a:hover {border-bottom: solid white 2px; }
 height: 0.4rem; width: 0.4rem; background-color: #FFC107; margin-top: -0.2rem ;}
 .container1{ display: flex; align-items: center; gap: 1rem; }
 .lk01 { text-decoration: none; color: black;}
+.foto3{ max-width: 100%;
+width: 20rem; height: 20rem;}
+.pagina3 { background-color: black;}
+.subtitulo { color: #c6c6c6;}
+.titulop3 { color: white;}
+.texto3 { color: #949292;}
+.escolha { color: #FFC107;}
